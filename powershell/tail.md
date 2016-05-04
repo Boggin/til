@@ -1,4 +1,4 @@
-## Tail a log file with PS.
+# tail a log file
 
 ```powershell
 cat <filename> -tail 1 -wait
